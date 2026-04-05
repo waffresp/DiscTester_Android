@@ -5,5 +5,4 @@ DiskMark For Android……Maybe
 
 Since DT v0.6 released,English is added now,Thanks for Qwen(Translated by Qwen)
 
-I'm sorry for that I haven't added English XD
-My bad
+That's all…
